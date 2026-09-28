@@ -1,0 +1,12 @@
+{
+  "name": "ict/helpdesk",
+  "description": "ICT Helpdesk Support System v5",
+  "require": {
+    "phpmailer/phpmailer": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ICT\\": "src/"
+    }
+  }
+}
